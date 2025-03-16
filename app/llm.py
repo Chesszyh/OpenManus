@@ -28,7 +28,7 @@ from app.schema import (
 )
 
 
-REASONING_MODELS = ["o1", "o3-mini"]
+REASONING_MODELS = ["o1", "o3-mini"] # Add Deepseek R1? NOTE
 
 
 class LLM:

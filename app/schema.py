@@ -9,7 +9,7 @@ class Role(str, Enum):
 
     SYSTEM = "system"
     USER = "user"
-    ASSISTANT = "assistant"
+    ASSISTANT = "assistant" # or others? NOTE
     TOOL = "tool"
 
 
